@@ -1,0 +1,5 @@
+{
+  "name": "Voice Message Converter",
+  "description": "Convert your voice into polished messages, code comments, or formal emails using AI. Perfect for dictating on the go or in your IDE.",
+  "requestFramePermissions": ["microphone"]
+}
